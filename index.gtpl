@@ -7,6 +7,6 @@
     <title>这是一个首页</title>
 </head>
 <body>
-    <h1>hello index</h1>
+    <h1>hello golang<h1>
 </body>
 </html>
